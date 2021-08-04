@@ -4,4 +4,6 @@ En este notebook se verán ajustes con el módulo sncosmo de los modelos SALT2 (
 
 Se describen los pasos necesarios para realizar los ajustes, algunas modificaciones realizadas para mejorarlos, notas y algunas preguntas.
 
+Se calculan los mínimos valores de chisq/ndof y los ajustes con los que se obtuvo el mínimo.
+
 
